@@ -1,0 +1,1 @@
+MARSCOPE: Interactive Martian Exploration and Mission Planning System
